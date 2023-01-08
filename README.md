@@ -1,7 +1,7 @@
-<h1 align="center"> Explorer (Stage 02) - Desafio Extra </h1>
+<h1 align="center"> Explorer (Stage 03) - Formulário Intermediário </h1>
 
 <p align="center">
-Formação inicial no mercado de programação.  <br/>
+Curso da Rocketseat de formação full-stack.  <br/>
 </p>
 
 <p align="center">
